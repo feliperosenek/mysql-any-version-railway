@@ -2,6 +2,8 @@
 
 MySQL service for Railway. Choose the MySQL version via the `MYSQL_VERSION` variable (e.g. `8.0.35`, `8.0.40`, `5.7`).
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/mysql-8-or-any-version?referralCode=Kqm1It&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 ## Required variable
 
 - **MYSQL_ROOT_PASSWORD** – Root password. The container will not start without it.
